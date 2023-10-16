@@ -1,3 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "github-style"
+
+[params]
+author = "SNAP Network"
+github = "RedeemProtocol"
+url = "https://snapnetwork.io"
+keywords = "SNAP Network, Blockchain, Web3"
